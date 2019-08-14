@@ -36,7 +36,7 @@ window.GreenSockGlobals=null,window._gsQueue=null,window._gsDefine=null,delete w
 }
 /*
      FILE ARCHIVED ON 02:32:49 Aug 31, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:32:07 Aug 14, 2019.
+     INTERNET ARCHIVE ON 14:21:00 Aug 14, 2019.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -44,14 +44,14 @@ window.GreenSockGlobals=null,window._gsQueue=null,window._gsDefine=null,delete w
 */
 /*
 playback timings (ms):
-  captures_list: 659.497
-  exclusion.robots.policy: 0.164
-  PetaboxLoader3.resolve: 1293.573 (4)
-  RedisCDXSource: 0.608
-  exclusion.robots: 0.177
-  CDXLines.iter: 11.855 (3)
-  PetaboxLoader3.datanode: 51.699 (5)
-  LoadShardBlock: 643.892 (3)
-  load_resource: 708.74
+  PetaboxLoader3.datanode: 123.372 (5)
+  exclusion.robots.policy: 0.176
+  captures_list: 96.657
+  RedisCDXSource: 1.922
+  exclusion.robots: 0.189
+  CDXLines.iter: 11.726 (3)
+  load_resource: 209.107
   esindex: 0.009
+  PetaboxLoader3.resolve: 153.834 (2)
+  LoadShardBlock: 79.941 (3)
 */

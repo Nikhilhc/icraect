@@ -76,7 +76,7 @@
 /* grab cursor */
 .ms-def-cursor{cursor:auto !important;}
 .ms-grab-cursor{cursor: url(../../../../../../../../../20181112142459im_/http_/icraect.org/wp-content/plugins/masterslider/public/assets/css/common/grab.png), move;}
-.ms-grabbing-cursor{cursor: url(../../../../../../../../../20181112140623im_/http_/icraect.org/wp-content/plugins/masterslider/public/assets/css/common/grabbing.png), move;}
+.ms-grabbing-cursor{cursor: url(../../../../../../../../../20180830232745im_/http_/icraect.org/wp-content/plugins/masterslider/public/assets/css/common/grabbing.html), move;}
 .ms-ie .ms-grab-cursor{cursor: move;}
 .ms-ie .ms-grabbing-cursor {cursor: move;}
 
@@ -3368,7 +3368,7 @@ only screen and (                min-resolution: 2dppx) {
 
 /*
      FILE ARCHIVED ON 23:27:45 Aug 30, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:32:03 Aug 14, 2019.
+     INTERNET ARCHIVE ON 14:20:55 Aug 14, 2019.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -3376,14 +3376,14 @@ only screen and (                min-resolution: 2dppx) {
 */
 /*
 playback timings (ms):
-  PetaboxLoader3.datanode: 181.844 (5)
-  PetaboxLoader3.resolve: 145.137 (3)
-  RedisCDXSource: 4.245
-  esindex: 0.007
-  CDXLines.iter: 15.189 (3)
-  exclusion.robots.policy: 0.151
-  LoadShardBlock: 210.328 (3)
-  captures_list: 232.343
-  exclusion.robots: 0.16
-  load_resource: 275.509
+  RedisCDXSource: 2.013
+  exclusion.robots: 0.152
+  captures_list: 282.703
+  CDXLines.iter: 20.801 (3)
+  exclusion.robots.policy: 0.14
+  PetaboxLoader3.datanode: 263.894 (5)
+  load_resource: 1074.147
+  esindex: 0.01
+  PetaboxLoader3.resolve: 1038.115 (2)
+  LoadShardBlock: 256.377 (3)
 */
