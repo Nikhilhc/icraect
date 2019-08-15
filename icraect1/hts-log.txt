@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Aug 2019 19:12:21 at https://web.archive.org/web/20180722135401/http://icraect.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Aug 2019 11:17:03 at https://web.archive.org/web/20180722135401/http://icraect.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20180722135401/http://icraect.org/ -O1 "C:\Users\Windows\Desktop\Papers\icraect" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,28 +6,28 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-19:13:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/feed/
-19:13:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/feed/ to https://web.archive.org/web/20180831023539/http://icraect.org/feed/
-19:13:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/comments/feed/
-19:13:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/comments/feed/ to https://web.archive.org/web/20180831024508/http://icraect.org/comments/feed/
-19:13:30	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20180722135401js_/http://icraect.org/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/min/webfontloader.js?ver=4.9.7 (from https://web.archive.org/web/20180722135401/http://icraect.org/)
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/about/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/about/ to https://web.archive.org/web/20180730161157/http://icraect.org/about
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/committees/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/committees/ to https://web.archive.org/web/20180831003703/http://icraect.org/committees/
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/registration/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/registration/ to https://web.archive.org/web/20180712133240/http://icraect.org/registration/
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/paper-submission/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/paper-submission/ to https://web.archive.org/web/20180831040141/http://icraect.org/paper-submission/
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/important-dates/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/important-dates/ to https://web.archive.org/web/20180831040819/http://icraect.org/important-dates/
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/call-for-papers/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/call-for-papers/ to https://web.archive.org/web/20180831035531/http://icraect.org/call-for-papers/
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/venue/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/venue/ to https://web.archive.org/web/20180831012211/http://icraect.org/venue/
-19:13:30	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/contact-us/
-19:13:30	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/contact-us/ to https://web.archive.org/web/20180831033710/http://icraect.org/contact-us/
-19:13:30	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20180722135401js_/http://icraect.org/wp-includes/js/wp-embed.min.js?ver=4.9.7 (from https://web.archive.org/web/20180722135401/http://icraect.org/)
+11:18:06	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/feed/
+11:18:06	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/feed/ to https://web.archive.org/web/20180831023539/http://icraect.org/feed/
+11:18:06	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/comments/feed/
+11:18:06	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/comments/feed/ to https://web.archive.org/web/20180831024508/http://icraect.org/comments/feed/
+11:19:02	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20180722135401js_/http://icraect.org/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/min/webfontloader.js?ver=4.9.7 (from https://web.archive.org/web/20180722135401/http://icraect.org/)
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/about/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/about/ to https://web.archive.org/web/20180730161157/http://icraect.org/about
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/committees/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/committees/ to https://web.archive.org/web/20180831003703/http://icraect.org/committees/
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/registration/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/registration/ to https://web.archive.org/web/20180712133240/http://icraect.org/registration/
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/paper-submission/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/paper-submission/ to https://web.archive.org/web/20180831040141/http://icraect.org/paper-submission/
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/important-dates/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/important-dates/ to https://web.archive.org/web/20180831040819/http://icraect.org/important-dates/
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/call-for-papers/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/call-for-papers/ to https://web.archive.org/web/20180831035531/http://icraect.org/call-for-papers/
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/venue/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/venue/ to https://web.archive.org/web/20180831012211/http://icraect.org/venue/
+11:19:02	Warning: 	FOUND for https://web.archive.org/web/20180722135401/http://icraect.org/contact-us/
+11:19:02	Warning: 	File has moved from https://web.archive.org/web/20180722135401/http://icraect.org/contact-us/ to https://web.archive.org/web/20180831033710/http://icraect.org/contact-us/
+11:19:03	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20180722135401js_/http://icraect.org/wp-includes/js/wp-embed.min.js?ver=4.9.7 (from https://web.archive.org/web/20180722135401/http://icraect.org/)
 
-HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 92 links scanned, 79 files written (2931842 bytes overall) [1509822 bytes received at 21881 bytes/sec], 2321760 bytes transferred using HTTP compression in 31 files, ratio 25%, 23.2 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 0 seconds : 92 links scanned, 79 files written (2931838 bytes overall) [1509952 bytes received at 12582 bytes/sec], 2321754 bytes transferred using HTTP compression in 31 files, ratio 25%, 23.2 requests per connection
 (2 errors, 20 warnings, 0 messages)
